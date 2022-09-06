@@ -33,7 +33,8 @@ body {
   /* font-family: "Black Han Sans", sans-serif; */
   font-size: 1.5rem;
   color: white;
-  margin: 10px;
+  margin: 20px;
+  text-align: center;
 }
 
 #clock {
