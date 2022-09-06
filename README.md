@@ -1,1 +1,1 @@
-# momentum_for_bvanilla_js
+# momentum_for_vanilla_js
